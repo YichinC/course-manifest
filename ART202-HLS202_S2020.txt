@@ -1,0 +1,3 @@
+https://data.artmuseum.princeton.edu/iiif/packages/181971	Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/packages/181499	Princeton University Art Museum
+https://data.artmuseum.princeton.edu/iiif/packages/181652	Princeton University Art Museum	
