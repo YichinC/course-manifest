@@ -1,1 +1,12 @@
 https://data.artmuseum.princeton.edu/iiif/objects/10549	Princeton Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/23657	Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/17427	Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/31790	Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/5621	Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/8923	Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/58884	Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/44648	Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/9790	Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/45692	Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/28330	Art Museum
+https://data.artmuseum.princeton.edu/iiif/objects/32245	Art Museum
