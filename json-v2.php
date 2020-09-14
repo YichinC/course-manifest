@@ -1,4 +1,5 @@
 <?php
+
 ini_set('display_errors', 0);
 ini_set('display_startup_errors', 0);
 //error_reporting(E_ALL);
@@ -9,15 +10,19 @@ function renderList($file) {
 
 	 $returnObj = array();
 	 $windowObjects = array();
-	 $manifests = new StdClass();
+	 $manifests = array();
 	 $lines = file($file);
+
 	 
 	 foreach($lines as $key=>$line) {
 	  $parts = explode("	",$line);
           $man = new StdClass();
 	  $man->manifestUri = trim($parts[0]);
 	  $man->location = trim($parts[1]);
-	  $manifest[] = $man;
+
+	  $manifests[] = $man;
+	  
+	  
 	  // if this is the first or second, add it to the windows that appear by default
 	  if($key<1) { 
 	      $z = new StdClass();
@@ -35,7 +40,7 @@ function renderList($file) {
 	 
 	 $returnObj['windowObjects'] = $windowObjects;
 	 $returnObj['manifests'] = $manifests;
-	 
+
 	return json_encode($returnObj);
 }
 
@@ -44,7 +49,7 @@ function renderList($file) {
 if(isset($_GET['code'])) {
   $code = $_GET['code'];
 
-  $file = "./course-manifest/{$code}.txt";
+  $file = "./{$code}.txt";
 
   if( file_exists ( $file ) ){
 

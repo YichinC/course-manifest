@@ -9,13 +9,15 @@ function renderList($file) {
 
 	 $returnObj = array();
 	 $windows = array();
-	 $manifests = new StdClass();
+	 $manifests = array();
 	 $lines = file($file);
-	 
+
 	 foreach($lines as $key=>$line) {
 	  $parts = explode("	",$line);
-	  $manifests->{$parts[0]} = new StdClass();
-	  $manifests->{$parts[0]}->provider = trim($parts[1]);
+	  $m = new StdClass();
+	  $m->manifestId = trim($parts[0]);
+	  $m->provider = trim($parts[1]);
+	  $manifests[] = $m;
 	  // if this is the first or second, add it to the windows that appear by default
 	  if($key<2) { 
 	      $z = new StdClass();
@@ -37,7 +39,7 @@ function renderList($file) {
 if(isset($_GET['code'])) {
   $code = $_GET['code'];
 
-  $file = "./course-manifest/{$code}.txt";
+  $file = "./{$code}.txt";
 
   if( file_exists ( $file ) ){
 
