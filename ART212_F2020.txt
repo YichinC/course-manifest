@@ -89,3 +89,4 @@ https://data.artmuseum.princeton.edu/iiif/objects/42477
 https://data.artmuseum.princeton.edu/iiif/objects/5467
 https://data.artmuseum.princeton.edu/iiif/objects/31852
 https://data.artmuseum.princeton.edu/iiif/objects/25222
+https://vrc.princeton.edu/course_images/iiif/65934/manifest
