@@ -2,5 +2,6 @@ https://vrc.princeton.edu/course_images/iiif/60/manifest	Visual Resources Collec
 https://vrc.princeton.edu/course_images/iiif/63/manifest	Visual Resources Collection, Art & Archaeology
 https://vrc.princeton.edu/course_images/iiif/61/manifest	Visual Resources Collection, Art & Archaeology
 https://data.artmuseum.princeton.edu/iiif/packages/183742	Princeton University Art Museum
-https://vrc.princeton.edu/course_images/iiif/65899/manifest
+https://vrc.princeton.edu/course_images/iiif/65899/manifest Visual Resources Collection, Art and Archaeology
+https://vrc.princeton.edu/course_images/iiif/65899/manifest Visual Resources Collection, Art and Archaeology
 https://vrc.princeton.edu/course_images/iiif/65801/manifest	Visual Resources Collection, Art & Archaeology
