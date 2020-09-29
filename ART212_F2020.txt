@@ -1,3 +1,12 @@
+http://vrc.princeton.edu/course_images/iiif/66047/manifest
+http://vrc.princeton.edu/course_images/iiif/66046/manifest
+http://vrc.princeton.edu/course_images/iiif/66045/manifest
+http://vrc.princeton.edu/course_images/iiif/66044/manifest
+http://vrc.princeton.edu/course_images/iiif/66043/manifest
+http://vrc.princeton.edu/course_images/iiif/66042/manifest
+http://vrc.princeton.edu/course_images/iiif/66041/manifest
+http://vrc.princeton.edu/course_images/iiif/66040/manifest
+http://vrc.princeton.edu/course_images/iiif/66039/manifest
 https://vrc.princeton.edu/course_images/iiif/44/manifest
 https://vrc.princeton.edu/course_images/iiif/45/manifest
 https://vrc.princeton.edu/course_images/iiif/46/manifest
