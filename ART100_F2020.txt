@@ -6,3 +6,5 @@ https://vrc.princeton.edu/course_images/iiif/65939/manifest	Visual Resources Col
 https://vrc.princeton.edu/course_images/iiif/65899/manifest	Visual Resources Collection, Art & Archaeology
 https://vrc.princeton.edu/course_images/iiif/65938/manifest	Visual Resources Collection, Art & Archaeology
 https://vrc.princeton.edu/course_images/iiif/65801/manifest	Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/66058/manifest Visual Resources Collection, Art & Archaeology
+https://vrc.princeton.edu/course_images/iiif/65987/manifest Visual Resources Collection, Art & Archaeology
