@@ -59,7 +59,7 @@ if(!isset($_GET['code'])) {
 }
 else {
   $code = $_GET['code'];
-  $file = "../course-manifest/{$code}.txt";
+  $file = "{$code}.txt";
 
   if( file_exists ( $file ) ){
      header('Content-Type: application/json');
