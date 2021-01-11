@@ -19,9 +19,9 @@ function renderList($file) {
 	  $parts = explode("	",$line);
 	  $man = new StdClass();
 	  
-	  $man["@type"] = "sc:Manifest",
-	  $man["@id"] = trim($parts[0]),
-	  $man["label"] = trim($parts[1])
+	  $man["@type"] = "sc:Manifest";
+	  $man["@id"] = trim($parts[0]);
+	  if(isset($parts[1])) { $man["label"] = trim($parts[1]); } else { $man["label"] = "";  }
 	  
 	  $returnObj["manifests"][] = $man;
 	 
