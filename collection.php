@@ -48,7 +48,7 @@ function renderList($file) {
 	 //$returnObj['windowObjects'] = $windowObjects;
 	 //$returnObj['manifests'] = $manifests;
 
-	return json_encode($returnObj);	 
+	return json_encode($returnObj,JSON_PRETTY_PRINT);	 
 
 }
 
