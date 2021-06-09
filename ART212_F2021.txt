@@ -1,4 +1,4 @@
-https://vrc.princeton.edu/course_images/iiif/66047/manifest
+http://vrc.princeton.edu/course_images/iiif/66047/manifest
 https://vrc.princeton.edu/course_images/iiif/66046/manifest
 https://vrc.princeton.edu/course_images/iiif/66045/manifest
 https://vrc.princeton.edu/course_images/iiif/66044/manifest
