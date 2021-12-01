@@ -1,0 +1,26 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://www.princeton.edu/iiif/collection/top",
+  "type": "Collection",
+  "label": { "en": [ "Image Collection for  ART 202" ] },
+  "summary": { "en": [ "Image Collection for  ART 202" ] },
+  "requiredStatement": {
+    "label": { "en": [ "Attribution" ] },
+    "value": { "en": [ "Department of Art and Archaeology, Princeton University" ] }
+  },
+
+  "items": [
+    {
+      "id": "https://data.artmuseum.princeton.edu/iiif/packages/181971",
+      "type": "Manifest",
+      "label": { "en": [ "Example Manifest 1" ] },
+      "thumbnail": [
+        {
+          "id": "https://puam-loris.aws.princeton.edu/loris/puam_logo.jp2/full/!200,200/0/default.jpg",
+          "type": "Image",
+          "format": "image/jpeg"
+        }
+      ]
+    }
+  ]
+}
